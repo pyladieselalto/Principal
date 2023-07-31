@@ -37,6 +37,9 @@ Estas entrevistas ofrecen la oportunidad de aprender de las experiencias y conoc
 
 Responsables de dirigir y coordinar las actividades de la comunidad de Pyladies El Alto.
 
+# ELECCIONES
+En la comunidad de Pyladies de El Alto, la etapa mínima para elecciones de nuevos lideres son 2 años, para postularse para presidente de la comunidad debes pertenecer a la comunidad.
+
 umasoraide@gmail.com
 
 libia7estevez7@gmail.com
